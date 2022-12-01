@@ -1,4 +1,4 @@
-# nike_shop_app
+# Nike Shoes App
 
 A new Flutter project.
 
